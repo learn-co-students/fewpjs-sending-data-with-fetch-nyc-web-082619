@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,100 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 3
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 4
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 5
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 6
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 7
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 8
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 9
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 10
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 11
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 12
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 13
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 14
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 15
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 16
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 17
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 18
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 19
+    },
+    {
+      "dogName": "Mike",
+      "dogBreed": "Slipknot",
+      "id": 20
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +113,218 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 1
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 2
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 3
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 4
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 5
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 6
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 7
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 8
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 9
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 10
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 11
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 12
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 13
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 14
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 15
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 16
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 17
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 18
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 19
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 20
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 21
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 22
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 23
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 24
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 25
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 26
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 27
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 28
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 29
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 30
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 31
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 32
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 33
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 34
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 35
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 36
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 37
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 38
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 39
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 40
+    },
+    {
+      "name": "Mike",
+      "email": "Slipknot",
+      "id": 41
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
